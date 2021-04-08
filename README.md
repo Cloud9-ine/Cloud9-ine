@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cloud9-ine
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning "Deep Learning"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (Gmail: cloooud9.1997@gmail.com)
 
