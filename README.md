@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cloud9-ine
-- 👀 I’m interested in Natural Language Processing
+- 👀 I’m interested in "Natural Language Processing"
 - 🌱 I’m currently learning "Deep Learning"
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on "Coding Interviews"
 - 📫 How to reach me (Gmail: cloooud9.1997@gmail.com)
 
 <!---
