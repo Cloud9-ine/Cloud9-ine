@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cloud9-ine
 - 👀 I’m interested in "Software Development Engineering (Intern & Full-Time)"
-- 🌱 I’m currently learning "Web application"
-- 💞️ I’m looking to collaborate on "Coding Interviews"
+- 🌱 I’m currently learning "Web application, Object Oriented Software Engineering, Security & Privacy in Computing"
+- 💞️ I’m looking to collaborate on "Coding Interviews (https://leetcode.com/Cloud9-ine/)"
 - 📫 How to reach me (Gmail: cloooud9.1997@gmail.com)
 
 <!---
