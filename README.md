@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cloud9-ine currently a CS Master Student @Johns Hopkins University
 - 👀 I’m interested in "Software Development Engineering (Intern & Full-Time)"
-- 🌱 I’m currently learning "Web application, Object Oriented Software Engineering, Security & Privacy in Computing"
+- 🌱 I’m currently learning "Computer Networks, Cloud Computing, Software Testing and so on."
 - 💞️ I’m looking to collaborate on "Coding Interviews (https://leetcode.com/Cloud9-ine/)"
 - 📫 How to reach me (Gmail: cloooud9.1997@gmail.com)
 
