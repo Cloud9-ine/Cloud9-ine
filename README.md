@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cloud9-ine, a CS Master Student @Johns Hopkins University.
 - 👀 I’m interested in "Software Development Engineering (Full-Time)".
-- 🌱 I’m currently learning "Angular".
+- 🌱 I’m currently learning "Google Cloud Plarform (GCP), Angular, Nodejs, Elasticsearch".
 - 💞️ I’m looking to collaborate on "Coding Problems (https://leetcode.com/Cloud9-ine/)"
 - 📫 How to reach me (xuhuasun1997@gmail.com)
 
